@@ -1,0 +1,7 @@
+[user]
+	name = Orlov
+	email = aorlov18@gmail.com
+[init]
+	defaultBranch = master
+[alias]
+	history = log --graph
